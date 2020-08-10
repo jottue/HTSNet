@@ -1,0 +1,1 @@
+# Handwritten-Text-Separation-via-End-to-End-Learning-of-Convolutional-Neural-Network
