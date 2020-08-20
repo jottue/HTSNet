@@ -35,7 +35,7 @@ Convolutional neural networks (CNNs) have shown dramatic improvements in single 
 
 ### <u>Illustration of the Overall Scheme</u>
 
-<p align="center"><img src="synthesis_diagram.pdf width="700"></p>
+<p align="center"><img src="figure/synthesis_diagram.png width="700"></p>
 
 During meta-transfer learning, the external dataset is used, where internal learning is done during meta-test time.
 From random initial \theta_0, large-scale dataset DIV2K with “bicubic” degradation is exploited to obtain \theta_T.
