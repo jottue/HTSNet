@@ -20,7 +20,7 @@ each other, while we are focusing on more challenging and realistic cases where 
 ## Synthesis method
 
 ### Used DataSet
-- [IAM Handwriting Database] <a href="http://www.fki.inf.unibe.ch/databases/iam-handwriting-database">Link</a>
+- [IAM Handwriting Database](a href="http://www.fki.inf.unibe.ch/databases/iam-handwriting-database")
 - [PRImA]
 - Scanned
 
