@@ -22,8 +22,8 @@ each other, while we are focusing on more challenging and realistic cases where 
 ### Used DataSet
 Download these datasets following likned url. Some dataset need authentfication for lisence.
 - [IAM Handwriting Database](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)
-- [PRImA]
-- Scanned
+- [PRImA Layout Anlysis Dataset](https://www.primaresearch.org/datasets)
+- [Scanned questionaire form documents]
 
 
 
