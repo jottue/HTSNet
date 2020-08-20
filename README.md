@@ -17,7 +17,14 @@ We present a method that separates handwritten and machine-printed components th
 each other, while we are focusing on more challenging and realistic cases where the components are often overlapping or touching each other. For this, we propose a new method that performs pixel-level classification with a convolutional neural network. Unlike conventional neural network methods, our method works in an end-to-end manner and does not require any preprocessing steps (e.g., foreground extraction, handcrafted feature extraction, and so on). For the training of our network, we develop a cross-entropy based loss function to alleviate the class imbalance problem. Regarding the training dataset, although there are some datasets of mixed printed characters and handwritten scripts, most of them do not have many overlapping cases and do not provide pixel-level annotations. Hence, we also propose a data synthesis method that generates realistic pixel-level training samples having many overlappings of printed and handwritten characters.
 <br><br>
 
-## Related Work
+## Synthesis method
+
+### Used DataSet
+#### IAM Handwriting Database <a href="http://www.fki.inf.unibe.ch/databases/iam-handwriting-database">Link</a>
+#### PRImA
+#### Scanned
+
+
 
 ### Super-Resolution for Various Kernels
 
