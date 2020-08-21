@@ -27,4 +27,5 @@ Download these datasets following linked URL. Some dataset need authentication f
 
 Updating...
 ### Synthesis Diagram
-<img width="700", src="figure/synthesis_diagram.png">
+![synthesis_diagram](https://user-images.githubusercontent.com/38808157/90842003-20527e00-e399-11ea-8251-b6b131af7e60.png)
+
