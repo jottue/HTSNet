@@ -26,3 +26,5 @@ Download these datasets following linked URL. Some dataset need authentication f
 - [Scanned Questionnaire Documents](https://drive.google.com/file/d/1jhS52PuD_gNa-BVHpH3j7hZdynw0ZSP5/view?usp=sharing)
 
 Updating...
+### Synthesis Diagram
+<img width="700", src="figure/synthesis_diagram.png">
