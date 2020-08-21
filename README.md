@@ -25,8 +25,10 @@ Download these datasets following linked URL. Some dataset need authentication f
 - [PRImA Layout Anlysis Dataset](https://www.primaresearch.org/datasets)
 - [Scanned Questionnaire Documents](https://drive.google.com/file/d/1jhS52PuD_gNa-BVHpH3j7hZdynw0ZSP5/view?usp=sharing)
 
-Updating...
+
 ### Synthesis Diagram
 
 ![synthesis_diagram](https://user-images.githubusercontent.com/38808157/90842003-20527e00-e399-11ea-8251-b6b131af7e60.png)
 
+
+Updating...
