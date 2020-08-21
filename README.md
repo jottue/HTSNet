@@ -23,6 +23,6 @@ each other, while we are focusing on more challenging and realistic cases where 
 Download these datasets following linked URL. Some dataset need authentfication for lisence.
 - [IAM Handwriting Database](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)
 - [PRImA Layout Anlysis Dataset](https://www.primaresearch.org/datasets)
-- [Scanned questionaire form documents](https://drive.google.com/file/d/1jhS52PuD_gNa-BVHpH3j7hZdynw0ZSP5/view?usp=sharing)
+- [Scanned questionnaire form documents](https://drive.google.com/file/d/1jhS52PuD_gNa-BVHpH3j7hZdynw0ZSP5/view?usp=sharing)
 
 Updating...
