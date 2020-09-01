@@ -19,8 +19,8 @@ each other, while we are focusing on more challenging and realistic cases where 
 
 ## Synthesis method
 
-### Used DataSet
-Download these datasets following linked URL. Some dataset need authentication for lisence.
+### Donwload datasets
+Please download the dataset directly from their website and follow their license agreement.
 - [IAM Handwriting Database](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)
 - [PRImA Layout Anlysis Dataset](https://www.primaresearch.org/datasets)
 - [Scanned Questionnaire Documents](https://drive.google.com/file/d/1-cwOmsBViw5-tJQxcNirWDI90-ZYq1Af/view?usp=sharing)
