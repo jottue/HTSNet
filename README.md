@@ -4,6 +4,7 @@
 
 Junho Jo, Hyung Il Koo, Jae Woong Soh, Nam Ik Cho
 
+[Article](https://link.springer.com/article/10.1007/s11042-020-09624-9)
 
 ## Environments
 - Ubuntu 18.04
