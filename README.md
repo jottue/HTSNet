@@ -48,5 +48,6 @@ python data_generation.py --data_root ${YOUR_DATA_ROOT} --save_dir ${YOUR_SAVE_D
 ```
 Running the above command will generate the scribbled document patches in ```${YOUR_SAVE_DIR}```.
 
+![typical_example](https://user-images.githubusercontent.com/38808157/91790749-7b635b00-ec4c-11ea-91ec-f442ca9cec34.png)
 
 Updating...
