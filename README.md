@@ -28,11 +28,14 @@ Disretory structure:
 ```
 ${YOUR_DATA_ROOT}
 |-- IAM
+
 |-- Documents
     |-- PRImA
         |-- *.png
+        
     |-- Questionnaire
         |-- *.png
+        
     |-- ... 
 ```
 ### Synthesis Diagram
