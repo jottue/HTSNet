@@ -22,7 +22,7 @@ each other, while we are focusing on more challenging and realistic cases where 
 
 
 
-### Donwload datasets
+### Prepare datasets
 Please download the dataset directly from their website and follow their license agreement.
 - [IAM Handwriting Database](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)
 - [PRImA Layout Anlysis Dataset](https://www.primaresearch.org/datasets)
@@ -41,6 +41,11 @@ ${YOUR_DATA_ROOT}
         |-- *.png   
 ```
 
+### Run synthesis code
+
+```
+python data_generation.py --data_root ${YOUR_DATA_ROOT} --save_dir ${YOUR_SAVE_DIR} --patch_size 128
+```
 
 
 
