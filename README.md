@@ -46,7 +46,7 @@ ${YOUR_DATA_ROOT}
 ```
 python data_generation.py --data_root ${YOUR_DATA_ROOT} --save_dir ${YOUR_SAVE_DIR} --patch_size 128
 ```
-Running the above command will generate the scribbled document patches in ${YOUR_SAVE_DIR}.
+Running the above command will generate the scribbled document patches in ```${YOUR_SAVE_DIR}```.
 
 
 Updating...
