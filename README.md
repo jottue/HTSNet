@@ -7,8 +7,12 @@ Junho Jo, Hyung Il Koo, Jae Woong Soh, Nam Ik Cho
 [Article Page](https://link.springer.com/article/10.1007/s11042-020-09624-9)
 
 ## Environments
-- [Tensorflow 1.13](http://www.tensorflow.org/)
-- Python 3.6
+- python 3.6
+- scipy
+- opencv
+- numpy
+- tqdm
+
 
 ## Abstract
 
