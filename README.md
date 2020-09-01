@@ -24,7 +24,17 @@ Please download the dataset directly from their website and follow their license
 - [PRImA Layout Anlysis Dataset](https://www.primaresearch.org/datasets)
 - [Scanned Questionnaire Documents](https://drive.google.com/file/d/1-cwOmsBViw5-tJQxcNirWDI90-ZYq1Af/view?usp=sharing)
 
-
+Disretory structure:
+```shell script
+$YOUR_ROOT
+|-- IAM
+|-- Documents
+|   |--PRImA
+|       |--*.png
+|   |--Scanned
+|       |--*.png
+|    
+```
 ### Synthesis Diagram
 
 ![synthesis_diagram](https://user-images.githubusercontent.com/38808157/90842003-20527e00-e399-11ea-8251-b6b131af7e60.png)
