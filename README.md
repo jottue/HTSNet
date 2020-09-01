@@ -25,7 +25,7 @@ Please download the dataset directly from their website and follow their license
 - [Scanned Questionnaire Documents](https://drive.google.com/file/d/1-cwOmsBViw5-tJQxcNirWDI90-ZYq1Af/view?usp=sharing)
 
 Disretory structure:
-```shell script
+```
 ${YOUR_DATA_ROOT}
 |-- IAM
 |-- Documents
