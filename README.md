@@ -28,7 +28,7 @@ Please download the dataset directly from their website and follow their license
 - [PRImA Layout Anlysis Dataset](https://www.primaresearch.org/datasets)
 - [Scanned Questionnaire Documents](https://drive.google.com/file/d/1-cwOmsBViw5-tJQxcNirWDI90-ZYq1Af/view?usp=sharing)
 
-The structure of the data directory should look like following scripts. If you want to rearange the structure, you need to edit the file ```data_generation.py``` to reflect the subpath that you used to store the data.
+The structure of the data directory should look like following scripts. If you want to rearange the structure, you need to edit the file ```data_generation.py``` to reflect the path that you used to store the data.
 
 ```
 ${YOUR_DATA_ROOT}
