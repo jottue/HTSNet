@@ -18,6 +18,10 @@ each other, while we are focusing on more challenging and realistic cases where 
 
 ## Synthesis method
 
+![synthesis_diagram](https://user-images.githubusercontent.com/38808157/90842003-20527e00-e399-11ea-8251-b6b131af7e60.png)
+
+
+
 ### Donwload datasets
 Please download the dataset directly from their website and follow their license agreement.
 - [IAM Handwriting Database](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)
@@ -36,9 +40,8 @@ ${YOUR_DATA_ROOT}
     |-- Questionnaire
         |-- *.png   
 ```
-### Synthesis Diagram
 
-![synthesis_diagram](https://user-images.githubusercontent.com/38808157/90842003-20527e00-e399-11ea-8251-b6b131af7e60.png)
+
 
 
 Updating...
