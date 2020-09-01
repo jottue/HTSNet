@@ -25,7 +25,8 @@ Please download the dataset directly from their website and follow their license
 - [Scanned Questionnaire Documents](https://drive.google.com/file/d/1-cwOmsBViw5-tJQxcNirWDI90-ZYq1Af/view?usp=sharing)
 
 Disretory structure:
-The structure of the data should look like followed scripts. If you want to rearrange the structure, you should 
+
+The structure of the data should look like followed scripts.
 ```
 ${YOUR_DATA_ROOT}
 |-- IAM
