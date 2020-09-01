@@ -24,9 +24,8 @@ Please download the dataset directly from their website and follow their license
 - [PRImA Layout Anlysis Dataset](https://www.primaresearch.org/datasets)
 - [Scanned Questionnaire Documents](https://drive.google.com/file/d/1-cwOmsBViw5-tJQxcNirWDI90-ZYq1Af/view?usp=sharing)
 
-Disretory structure:
 
-The structure of the data should look like followed scripts.
+The structure of the data directory should look like this:
 ```
 ${YOUR_DATA_ROOT}
 |-- IAM
