@@ -54,4 +54,7 @@ Running the above command will generate the scribbled document patches in ```${Y
 ![typical_example](https://user-images.githubusercontent.com/38808157/91790749-7b635b00-ec4c-11ea-91ec-f442ca9cec34.png)
 The first row shows synthesized patches and the second row indicates corresponding pixel-level annotations. Blue, Red and Green denote background, handwritten-text and machine-printed text pixels, respectively. Yellow are overalapping areas.
 
+
+
+
 Updating...
