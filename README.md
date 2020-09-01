@@ -26,14 +26,14 @@ Please download the dataset directly from their website and follow their license
 
 Disretory structure:
 ```shell script
-$YOUR_ROOT
+${YOUR_DATA_ROOT}
 |-- IAM
 |-- Documents
-|   |--PRImA
-|       |--*.png
-|   |--Scanned
-|       |--*.png
-|    
+    |-- PRImA
+        |-- *.png
+    |-- Questionnaire
+        |-- *.png
+    |-- ... 
 ```
 ### Synthesis Diagram
 
