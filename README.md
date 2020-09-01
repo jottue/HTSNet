@@ -31,14 +31,10 @@ ${YOUR_DATA_ROOT}
 |-- IAM
 
 |-- Documents
-
     |-- PRImA
-        |-- *.png
-        
+        |-- *.png        
     |-- Questionnaire
-        |-- *.png
-        
-    |-- ... 
+        |-- *.png   
 ```
 ### Synthesis Diagram
 
