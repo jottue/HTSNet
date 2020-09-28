@@ -30,7 +30,7 @@ each other, while we are focusing on more challenging and realistic cases where 
 Please download the dataset directly from their website and follow their license agreement.
 - [IAM Handwriting Database](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)
 - [PRImA Layout Anlysis Dataset](https://www.primaresearch.org/datasets)
-- [Scanned Questionnaire Documents](https://drive.google.com/file/d/1-cwOmsBViw5-tJQxcNirWDI90-ZYq1Af/view?usp=sharing)
+- [Scanned Questionnaire Documents](https://drive.google.com/file/d/1Q4kDiJts-yi9IhsYT6ku5Y4WNhwagnPJ/view?usp=sharing)
 
 The structure of the data directory should look like following scripts. If you want to rearrange the structure, you need to edit the file ```data_generation.py``` to reflect the path that you used to store the data.
 
