@@ -55,6 +55,3 @@ Running the above command will generate the scribbled document patches in ```${Y
 The first row shows synthesized patches and the second row indicates corresponding pixel-level annotations. Blue, Red and Green denote background, handwritten-text and machine-printed text pixels, respectively. Yellow are overalapping areas.
 
 
-
-
-Updating...
